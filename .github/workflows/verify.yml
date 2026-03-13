@@ -21,4 +21,5 @@ steps:
 
   - run: node scripts/createNewEthereumIdentity.js
 
-  - run: node scripts/manualLinkHumanToAgent.js --challenge '{"name":"daisy-el","description":"daisy-el AI Agent"}'
+  - run: node scripts/manualLinkHumanToAgent.js --challenge '{"name":"daisy-el","description":"daisy-el AI Age
+  nt"}'
